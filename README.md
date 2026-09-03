@@ -32,3 +32,4 @@ Infrastructure: Firebase
 
 - Founding member, IEEE Professional Communication Society (ProComm) Student Chapter, Woxsen
 - Contributor, FLUX Student Magazine
+- Member, Dean Fellow Leadership Cell
