@@ -1,4 +1,4 @@
-# Akhil
+# Akhil Uppula
 
 Second-year B.Tech CSE (AI/ML) student at Woxsen University. Building AI/ML products.
 
