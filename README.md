@@ -5,7 +5,7 @@ Second-year B.Tech CSE (AI/ML) student at Woxsen University. Building AI/ML prod
 ## Currently Working On
 
 - Neurs - an art teaching web application. Pipeline: text/image to Gemini image step generation, deterministic grid conversion, layer-by-layer teaching.
-- Woxsen Unified Campus Platform — a unified digital layer for non-academic campus life at Woxsen University, starting with a campus map and expanding into event discovery, clubs, dining, service requests, and facility booking
+- Woxsen Unified Campus Application — a unified digital layer for non-academic campus life at Woxsen University, starting with a campus map and expanding into event discovery, clubs, dining, service requests, and facility booking
 - A film composition tool for pre-production shot planning, using AI to adjust lighting, test camera lenses and focus, and modify composition on a user-provided image
 
 ## Tech Stack
